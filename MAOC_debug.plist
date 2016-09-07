@@ -42,6 +42,8 @@
 				<string>MAOC</string>
 				<key>bundle-version</key>
 				<string>1.2</string>
+				<key>forceUpdate</key>
+				<false/>
 			</dict>
 		</dict>
 	</array>
