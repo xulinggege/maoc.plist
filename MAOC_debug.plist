@@ -44,6 +44,10 @@
 				<string>1.2</string>
 				<key>forceUpdate</key>
 				<false/>
+				<key>updateInfoCN</key>
+				<string>我需要升级了</string>
+				<key>updateInfoEN</key>
+				<string>I need update</string>
 			</dict>
 		</dict>
 	</array>
