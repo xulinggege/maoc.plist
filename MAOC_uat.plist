@@ -41,7 +41,7 @@
 				<key>title</key>
 				<string>MAOC-uat</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.1.1</string>
 				<key>forceUpdate</key>
 				<false/>
 				<key>updateInfoCN</key>
