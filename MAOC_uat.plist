@@ -45,7 +45,7 @@
 				<key>forceUpdate</key>
 				<false/>
 				<key>updateInfoCN</key>
-				<string>修改消息列表优先级排序问题</string>
+				<string>修改消息列表航班状态优先顺序</string>
 				<key>updateInfoEN</key>
 				<string>I need update</string>
 			</dict>
