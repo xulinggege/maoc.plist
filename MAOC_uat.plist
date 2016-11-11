@@ -41,11 +41,11 @@
 				<key>title</key>
 				<string>MAOC-uat</string>
 				<key>bundle-version</key>
-				<string>1.1.6</string>
+				<string>1.1.7</string>
 				<key>forceUpdate</key>
 				<false/>
 				<key>updateInfoCN</key>
-				<string>修改执照号填写bug</string>
+				<string>修改断网连接启动App时候，token刷新异常导致重新登录的问题</string>
 				<key>updateInfoEN</key>
 				<string>I need update</string>
 			</dict>
