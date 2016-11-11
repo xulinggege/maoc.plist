@@ -41,11 +41,11 @@
 				<key>title</key>
 				<string>MAOC-uat</string>
 				<key>bundle-version</key>
-				<string>1.1.5</string>
+				<string>1.1.6</string>
 				<key>forceUpdate</key>
 				<false/>
 				<key>updateInfoCN</key>
-				<string>修改消息列表航班状态优先顺序</string>
+				<string>修改执照号填写bug</string>
 				<key>updateInfoEN</key>
 				<string>I need update</string>
 			</dict>
