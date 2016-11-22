@@ -41,11 +41,11 @@
 				<key>title</key>
 				<string>MAOC-uat</string>
 				<key>bundle-version</key>
-				<string>1.2.2</string>
+				<string>1.2.3</string>
 				<key>forceUpdate</key>
 				<false/>
 				<key>updateInfoCN</key>
-				<string>修改调试地址修改后，‘我’界面显示错误的调试地址</string>
+				<string>修改刷新token刷新失败，区分token过期和在其它地方登录</string>
 				<key>updateInfoEN</key>
 				<string>I need update</string>
 			</dict>
