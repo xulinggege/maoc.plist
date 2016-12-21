@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sfairlines.MAOC-uat</string>
+				<string>com.sfairlines.MAOC</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
