@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.88.29.69:8080/maoc-dev/rs/mobile/app/ios/maoc:latest</string>
+					<string>http://10.88.66.88:8080/maoc/MAOC_uat.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sfairlines.MAOC</string>
+				<string>com.sfairlines.MAOC-uat</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
